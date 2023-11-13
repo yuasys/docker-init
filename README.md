@@ -1,4 +1,4 @@
-# README.md
+# 「Docker init」コマンドを活用しよう
 
 ## 目的
 
